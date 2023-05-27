@@ -6,6 +6,6 @@ Commads:
 
 -Must have g++ installed-
 
-g++ -o (object name) BinaryStore.cpp
+g++ -o (object name) Hangman.cpp
 
 ./(object name)
